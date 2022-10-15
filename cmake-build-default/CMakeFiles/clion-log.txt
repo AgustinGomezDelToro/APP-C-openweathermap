@@ -1,0 +1,4 @@
+Cannot generate into /Users/tino/Desktop/Bureau - MacBook Pro (3)/FACULTAD/2éme année/PROJET ANNUEL/AppC
+It is already used for unknown project
+
+Please either delete it manually or select another generation directory

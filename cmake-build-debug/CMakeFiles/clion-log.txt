@@ -1,0 +1,4 @@
+Cannot generate into /Users/tino/Downloads/AppC
+It is already used for project /home/mouloud/Desktop/SuperProf/Augustin/Projet C/AppC
+
+Please either delete it manually or select another generation directory
