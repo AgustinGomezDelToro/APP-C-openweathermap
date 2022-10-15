@@ -12,4 +12,4 @@ vous pouvez l'executer avec la commande:
 ./main
 
 
-il pfaut pas oublier changer en struct.h les coordonées de votre BDD
+il faut pas oublier changer en struct.h les coordonées de votre BDD
